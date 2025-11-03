@@ -112,10 +112,10 @@ function App() {
       ],
     },
     {
-      title: "Project E-Commerce Prototype",
-      desc: "A clean and modern e-commerce UI design focusing on user experience and responsive layouts, prototyped entirely in Figma.",
-      liveDemo: "https://figma.com/file/project2-demo",
-      github: "https://github.com/justinirawan/project2", // Tetap string
+      title: "Movie List with Ratings",
+      desc: "A responsive movie listing website with ratings and reviews, built with React and integrated with The Movie Database (TMDb) API for real-time movie data.",
+      liveDemo: "https://vingmovie.vercel.app/",
+      github: "https://github.com/justinirawann/MovieApp", // Tetap string
     },
     {
       title: "Data Visualization Dashboard",
